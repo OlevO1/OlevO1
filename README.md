@@ -1,16 +1,16 @@
-<?php
-
-use Illuminate\Support\Facades\Route;
+![](https://komarev.com/ghpvc/?username=OlevO1)
+```php
 
 Route::get('/', function () {
     return [
-        'country' => 'Netherlands',
+        'country' => 'Hungary',
         'working_on' => ['undefined'],
-        'learning' => ['Javascript','Node.js','React', 'PHP', 'Laravel'],
-        'tools' => ['MySQL', 'Nginx', 'Docker'],
+        'learning' => ['Node.js','Python','Java'],
+        'tools' => ['Nginx', 'Docker'],
         'discord' => [
-            'tag' => 'finniedj.exe#9075',
+            'tag' => 'OlevO',
             'server' => null,
         ],
     ];
 });
+```
