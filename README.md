@@ -1,15 +1,16 @@
+![](https://komarev.com/ghpvc/?OlevO1)
 <?php
 
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return [
-        'country' => 'Hungary',
+        'country' => 'Netherlands',
         'working_on' => ['undefined'],
-        'learning' => ['Node.js, Python, Linux'],
-        'tools' => ['Nginx', 'Docker'],
+        'learning' => ['Javascript','Node.js','React', 'PHP', 'Laravel'],
+        'tools' => ['MySQL', 'Nginx', 'Docker'],
         'discord' => [
-            'tag' => 'OlevO',
+            'tag' => 'finniedj.exe#9075',
             'server' => null,
         ],
     ];
