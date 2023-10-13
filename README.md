@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?OlevO1)
 <?php
 
 use Illuminate\Support\Facades\Route;
