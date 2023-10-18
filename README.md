@@ -8,7 +8,7 @@ Route::get('/', function () {
         'learning' => ['Node.js','Python','Java'],
         'tools' => ['Nginx', 'Docker'],
         'discord' => [
-            'tag' => 'OlevO',
+            'tag' => 'OlevO_',
             'server' => null,
         ],
     ];
