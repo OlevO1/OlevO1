@@ -5,7 +5,7 @@ Route::get('/', function () {
     return [
         'country' => 'Hungary',
         'working_on' => ['undefined'],
-        'learning' => ['Node.js','Python','Java'],
+        'learning' => ['Node.js','Python','GO'],
         'tools' => ['Nginx', 'Docker'],
         'discord' => [
             'tag' => 'OlevO_',
